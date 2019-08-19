@@ -1,0 +1,8 @@
+#pageBody{
+    background-color: rgba(128, 128, 128, 0.788);
+    padding:  15px;
+}
+td {
+    vertical-align: top;
+    text-align: center;
+}
